@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Laboratorio01</string>
+    <string name="hello">Olá Professor Bruno Este é meu primeiro trabalho prático de laboratório Android</string>
+    <string name="Des_por">Desenvolvido por Marcus Vinicius 13296010</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
